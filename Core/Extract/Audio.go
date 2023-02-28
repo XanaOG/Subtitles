@@ -14,7 +14,6 @@ var (
 )
 
 func Audio() {
-	// Step 1: Extract audio from MP4 video
 	if _, err := os.Stat(OutputPath); err == nil {
 		// Delete the file
 		err := os.Remove(OutputPath)
