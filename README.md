@@ -1,5 +1,5 @@
 # Subtitles
-A bot that extracts audio, trancscibes it, and writes it into subtitles from a video!
+A tool that extracts audio, trancscibes it, and writes it into subtitles from a video!
 # Setup
 1. Create either one or multiple accounts on https://www.assemblyai.com/ ( depending on how many API keys you are wanting to use since they have limits ) 
 2. Get the API key from your account(s) and place them in the Config.json file.
